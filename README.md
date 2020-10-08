@@ -64,7 +64,7 @@
 | nginx | ✅ Engine X | |
 | null [🔊](http://dict.youdao.com/dictvoice?audio=null&type=1) | ✅ [nʌl] | ❌ [naʊ] |
 | OS X | ✅ OS ten | ❌ [ɔs eks] |
-| path [🔊](http://dict.youdao.com/dictvoice?audio=path&type=2) | ✅ [pæθ]] | ❌ [pɪθ] |
+| path [🔊](http://dict.youdao.com/dictvoice?audio=path&type=2) | ✅ [pæθ]](us) | ❌ [pɪθ] |
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=1) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | privilege [🔊](http://dict.youdao.com/dictvoice?audio=privilege&type=1) | ✅ ['prɪvəlɪdʒ] | ❌ ['prɪvɪlɪdʒ] |
@@ -85,6 +85,7 @@
 | SQL | ✅ [ˈsiːkwəl]/[ˈesˈkjuːˈel] | |
 | sudo | ✅ ['suːduː] | |
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=1) | ✅ [swiːt] | ❌ [sjuːt] |
+| theme [🔊](http://dict.youdao.com/dictvoice?audio=theme&type=1) | ✅ [θiːm] | ❌ [ðiːm]] |
 | thymeleaf [🔊](http://dict.youdao.com/dictvoice?audio=thymeleaf&type=1) | ✅ [ˈtaɪmˌlɪːf] | ❌ [θiːmɪlɪːf]] |
 | typical [🔊](http://dict.youdao.com/dictvoice?audio=typical&type=1) | ✅ ['tɪpɪkl] | ❌ ['taɪpɪkəl] |
 | Ubuntu [🔊](http://upload.wikimedia.org/wikipedia/commons/b/b5/En-Ubuntu_pronunciation.oga) | ✅ [ʊ'bʊntʊ] | ❌ [juː'bʊntʊ] |
