@@ -33,6 +33,7 @@
 | doc [🔊](http://dict.youdao.com/dictvoice?audio=doc&type=1) | ✅ [dɒk]| ❌ [daʊk] |
 | event [🔊](http://dict.youdao.com/dictvoice?audio=event&type=1) | ✅ [ɪ'vent]| ❌ ['ɪvənt] |
 | epoch  [🔊](http://dict.youdao.com/dictvoice?audio=epoch&type=1) | ✅ [ˈiːpɒk]| ❌ ['ɛpətʃ] | 
+| file  [🔊](http://dict.youdao.com/dictvoice?audio=file&type=1) | ✅ [faɪl]| ❌ [fɪl] |
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=1) | ✅ [fə'sɑːd]| ❌ ['feikeid] |
 | fedora [🔊](http://dict.youdao.com/dictvoice?audio=fedora&type=1) | ✅ [fɪ'dɔːrə]| ❌ ['fedərə] |
 | format [🔊](http://dict.youdao.com/dictvoice?audio=format&type=1) | ✅ ['fɔːmæt]| ❌ [fɔ'mæt] |
